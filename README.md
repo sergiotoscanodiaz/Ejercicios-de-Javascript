@@ -1,5 +1,5 @@
 # EjerciciosAD_DAM2 :computer: :mortar_board:
 
-Ejercicios la asignatura de **Acceso a Datos** de *2ºDAM*.
+Ejercicios de la asignatura de **Acceso a Datos** de *2ºDAM*.
 
 
